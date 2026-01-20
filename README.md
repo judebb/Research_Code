@@ -1,0 +1,1 @@
+This notebook contains scripts that were essential to my work as a neuroscience researcher at the National Institutes of Health. Using Python, I analyzed fMRI timing, created summary files of participants' scores on behavioral tasks, and  
